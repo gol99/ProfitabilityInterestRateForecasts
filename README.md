@@ -12,7 +12,7 @@ This Github Repository contains:
 
 To run the scripts in this repository, install the required **Python** and **R** packages.
 
-### Python Packages
+### Python Packages Installation
 To ensure that all Jupyter Notebooks run smoothly, install the necessary Python packages using the following command in Python:
 ```bash
 pip install pandas numpy fredapi matplotlib statsmodels scikit-learn empyrical scipy
