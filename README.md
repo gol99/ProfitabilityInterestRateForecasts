@@ -54,7 +54,7 @@ To reproduce the results of the thesis, download this repository and run the not
     - `DirectionFinancialInstrument.ipynb`
     - `ErrorMeasures.ipynb`
 
-4. **Trading Strategies**: This folder and subfolder contain 12 scripts in total, in which the trading strategies are implemented (regular and robustness checks with MOVE index). THe results of these scripts are csv files with quarterly returns of the different types of forecasts for the different strategies.
+4. **Trading Strategies**: This folder and subfolder contain 12 scripts in total, in which the trading strategies are implemented (regular and robustness checks with MOVE index). The results of these scripts are CSV files with quarterly returns of the different types of forecasts for the different strategies.
 
 5. **Results**: In this folder, there are two scripts (one for the regular analysis, one for the robustness check), where the risk and return measures of the different trading strategies (discussed in Section 5.3 of the thesis), are computed based on the quarterly returns.
     - `Risk and Return Measures.ipynb`
